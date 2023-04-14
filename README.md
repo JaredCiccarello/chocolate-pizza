@@ -1,7 +1,7 @@
 # chocolate-pizza
 
 
-Team: Tiffani Rice, Anthony Sinitsa, Jared Ciccarello
+Team: Tiffani Rice, Anthony Sinitsa, Jared CiccarellO
 
 Be sure to do frequent commits, and always do your work on branches. Before starting coding, think about a strategy for approaching this project. Before writing code, think about a practical order in which to do the work
 
